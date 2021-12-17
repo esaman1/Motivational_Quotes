@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">KMotivationalQuotes</string>
+    <string name="title">Motivational Quotes</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="home">Home</string>
+    <string name="category">Category</string>
+    <string name="favourite">Favourite Quotes</string>
+    <string name="setting">Setting</string>
+    <string name="no_internet">Internet Connection Not Found !</string>
+
+    <string name="noti">Notification</string>
+    <string name="share">Share with friend</string>
+    <string name="rate">Rate this app</string>
+    <string name="contact">Feedback </string>
+    <string name="policy">Privacy Policy</string>
+    <string name="text1">\n Unlimited \n Motivational Quotes!</string>
+    <string name="subtext1">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="text2">\n Download \n Unlimited Quotes!</string>
+    <string name="text3">\n +15 Categories \n Unlimited Quotes!</string>
+    <string name="vw_rationale_storage">Need Storage Permission for Downloads</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--    Test IDS-->
+    <string name="banner_ad_home">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="native_ad">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="interstial_ad">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="app_open">ca-app-pub-3940256099942544/3419835294</string>
+    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+
+    <string name="feedback_email">bitbotdevelopers@gmail.com</string>
+</resources>
